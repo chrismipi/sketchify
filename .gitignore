@@ -1,2 +1,10 @@
 venv/
 .vscode/
+env/
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sketchify.iml
+.idea/vcs.xml
+requirements.txt
